@@ -8,7 +8,7 @@
 
 
 
-🌱 I am actively programming in various languages (PHP, Python, GoLang, C#, objC, swift, SQL/NoSQL). 
+🌱 I am actively programming in various languages (PHP, Python, GoLang, RUST, C#, objC, swift, js, SQL/NoSQL). 
 
 Preferred directions: 
 
